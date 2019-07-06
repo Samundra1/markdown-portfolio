@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+# New List
+- long walks on the beach
+- Open Source
